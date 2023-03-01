@@ -1,0 +1,8 @@
+{
+	"appId": "io.ionic.reussis",
+	"appName": "reussis",
+	"bundledWebRuntime": false,
+	"npmClient": "npm",
+	"webDir": "build",
+	"cordova": {}
+}
